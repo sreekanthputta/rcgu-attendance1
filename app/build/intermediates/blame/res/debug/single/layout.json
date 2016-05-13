@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Users\\Sreekanth Putta\\Desktop\\ImageUrl1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

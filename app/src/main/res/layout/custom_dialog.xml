@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+    <TextView
+        android:id="@+id/tpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Password:"
+        android:textSize="15dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:id="@+id/epassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:width="150dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@id/tpassword"
+        android:layout_marginLeft="20dp" />
+
+    <Button
+        android:id="@+id/bpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Submit"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/epassword"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
